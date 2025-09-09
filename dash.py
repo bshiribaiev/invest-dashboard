@@ -4,7 +4,7 @@ import altair as alt
 import plotly.express as px
 
 st.set_page_config(
-    page_title="Global Investment in AI Dashboard",
+    page_title="Global Investment in AI",
     page_icon="💴",
     layout="wide",
     initial_sidebar_state="expanded")
